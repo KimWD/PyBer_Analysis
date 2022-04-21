@@ -5,4 +5,4 @@ A summary DataFrame was completed with the ride-sharing data gathered from PyBer
 
 ## Results:
 
-![ride_sharing_data](analysis/ride_sharing_data.png.png)
+![ride_sharing_data](/analysis/ride_sharing_data.png)
